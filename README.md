@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0dem8n
-- 👀 I’m interested in audio technic
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in audio
+- 🌱 I’m currently learning PYTHON
 - ⚡ Fun fact: I dont like C#
 
 <!---
